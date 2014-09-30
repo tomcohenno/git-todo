@@ -1,1 +1,3 @@
 this is the new feature! dont you like it?
+
+modifying newfeat - not readme
